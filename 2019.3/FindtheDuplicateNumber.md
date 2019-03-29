@@ -40,7 +40,7 @@ class Solution {
         //快慢指针相遇时,慢指针走了x步。停在环的A位置。
         //x = l+A , 2x = kr+l+A,x = kr
         //l+A = kr。再走l步一定会在环的起点处。
-        //由于不知道l的数组，只能用另外一个指针去探测该距离。
+        //由于不知道l的数量，只能用另外一个指针去探测该距离。
         int slow2 = nums[0];
         while(slow2 != slow){
             slow2 = nums[slow2];
