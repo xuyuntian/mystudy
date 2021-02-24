@@ -6,3 +6,6 @@
 5. 不要练习非常难的题目。没有思路可以参考别人的思路自己重新实现。基本的才是最重要的。
 
 **6月算法题在[issues](https://github.com/xuyuntian/mystudy/issues/1)中**
+
+
+> [博客](http://xuyuntian.github.io/) 有疑问提issue
